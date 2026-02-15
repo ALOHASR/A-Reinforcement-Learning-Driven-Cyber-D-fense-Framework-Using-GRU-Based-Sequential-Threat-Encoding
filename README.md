@@ -168,5 +168,6 @@ Online continual learning for zero-day attacks
 
 👤 Author
 
-Sree
+Sree Rag
+
 Research Focus: AI-driven Cyber Defense Systems
